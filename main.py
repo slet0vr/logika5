@@ -18,4 +18,5 @@ class Button(Widget):
         print("Ви зареєстровані")
 
 btn = Button(100, 100, "Брати участь", False)
+btn.print()
 
